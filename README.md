@@ -29,5 +29,5 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="50" width="60"
-       src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png)">
+       src="[https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
 </div>
