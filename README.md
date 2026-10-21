@@ -1,18 +1,6 @@
-## Olá, meu nome é Yuri Martins
+## Olá, meu nome é Yuri Silva
 
-☕ Sou desenvolvedor iniciante em Python, HTML e CSS
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yuriiie&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yuriiie&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+☕ Sou desenvolvedor iniciante em Python, HTML, CSS e JavaScript
 
 ## 📲 Meu Instagram
 
