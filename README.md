@@ -2,7 +2,7 @@
 
 ☕ Sou desenvolvedor iniciante em Python, HTML, CSS e JavaScript
 
-## 📲 Meu Instagram e Profissional
+## 📲 Meu Instagram Pessoal e Profissional
 
 <a href="https://instagram.com/oyurim09_" target="_blank">
   <img src="https://img.shields.io/badge/Pessoal-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
