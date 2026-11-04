@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://www.instagram.com/yscode.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Pessoal-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/Profissional-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 
 ## 🚀 Tecnologias que estou aprendendo
