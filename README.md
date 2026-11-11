@@ -1,107 +1,111 @@
 <div align="center">
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4&mode=dark" width="100%" alt="Yuri Silva — perfil" />
-</picture>
 
-<h1>Yuri Silva</h1>
-<p><strong>Desenvolvedor Web</strong></p>
-<p>Olá! 👋 Sou desenvolvedor Full Stack Júnior e Web Designer, apaixonado por tecnologia, desenvolvimento web e criação de experiências digitais modernas e funcionais.</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020611,50:063B9C,100:1684FF&height=190&section=header&text=YURI%20SILVA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=WEB%20DEVELOPER&descSize=16&descAlignY=58&animation=fadeIn" />
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Seguidores</sub></td>
-<td width="25%" align="center"><strong>3</strong><br /><sub>Repositórios</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Estrelas</sub></td>
-<td width="25%" align="center"><strong>84</strong><br /><sub>Contribuições</sub></td>
-</tr>
-</table>
+<a href="https://github.com/yuriiie">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1684FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;Transformando+ideias+em+c%C3%B3digo;Construindo+experi%C3%AAncias+digitais" />
+</a>
 
-<p><a href="https://github.com/yuriiie">GitHub</a></p>
+<br/>
+
+<a href="https://www.instagram.com/yscode.dev">
+  <img src="https://img.shields.io/badge/Instagram-020611?style=for-the-badge&logo=instagram&logoColor=1684FF"/>
+</a>
+<a href="https://yscode.pages.dev">
+  <img src="https://img.shields.io/badge/Portfólio-020611?style=for-the-badge&logo=googlechrome&logoColor=1684FF"/>
+</a>
+
 </div>
 
-<h2>Desenvolvendo em público</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
-<p>Olá! 👋 Sou desenvolvedor Full Stack Júnior e Web Designer, apaixonado por tecnologia, desenvolvimento web e criação de experiências digitais modernas e funcionais.</p>
-<p><strong>Foco atual:</strong> Python, CSS, HTML e JavaScript</p>
-<p><sub>Um espaço para apresentar meus projetos, minha evolução e minhas próximas ideias.</sub></p>
-</td>
-<td width="38%" valign="top">
-<img src="https://www.gitskins.com/api/section/portrait?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4&color=1&v=showcase-portrait-1" width="100%" alt="Retrato ASCII animado e colorido de Yuri Silva" />
-</td>
-</tr>
-</table>
+## 👨‍💻 Sobre mim
 
+Olá! Sou Yuri Silva, desenvolvedor Web e estudante de tecnologia.
 
-<h2>Projetos em destaque</h2>
+Tenho interesse em desenvolvimento web, criação de interfaces modernas e construção de soluções digitais funcionais.
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<img src="https://www.gitskins.com/api/section/projects?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4" width="100%" alt="Projetos em destaque" />
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Yuriiie/JurosCompostos"><strong>JurosCompostos</strong></a></h3>
-<p>Uma calculadora de juros compostos desenvolvida em Python utilizando a biblioteca Tkinter.</p>
-<p><sub>Python · ⭐ 0 estrelas · 0 forks</sub></p>
-<p><a href="https://github.com/Yuriiie/JurosCompostos">Ver projeto →</a></p>
-</td>
-</tr>
-</table>
+Gosto de transformar ideias em projetos reais, sempre buscando evoluir minhas habilidades e aprender novas tecnologias.
 
-<h2>Outros projetos</h2>
+- 💻 Desenvolvendo projetos próprios e para clientes.
+- 🎨 Interessado em UI/UX e Web Design.
+- 🚀 Sempre aprendendo e evoluindo.
+- 🌐 Focado na criação de experiências digitais.
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/Yuriiie/JurosCompostos"><strong>JurosCompostos</strong></a></h3>
-<p>Uma calculadora de juros compostos desenvolvida em Python utilizando a biblioteca Tkinter.</p>
-<p><sub>Python · ⭐ 0</sub></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/Yuriiie/Login-Page"><strong>Login-Page</strong></a></h3>
-<p>Página de login moderna com tema escuro, desenvolvida com Streamlit. Possui interface minimalista, autenticação por usuário e senha e layout responsivo.</p>
-<p><sub>Python · ⭐ 0</sub></p>
-</td>
-</tr>
-</table>
+---
 
-<h2>Estatísticas</h2>
+## 🛠️ Tecnologias
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4" width="100%" alt="Estatísticas dos repositórios" />
-</p>
+<div align="center">
 
-<h2>Tecnologias</h2>
+### Linguagens e desenvolvimento
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" alt="Python, HTML, CSS e JavaScript" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js" height="55" alt="Python, HTML, CSS e JavaScript"/>
 
-<h2>Atividade</h2>
+### Ferramentas
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4&mode=dark" width="100%" alt="84 contribuições no último ano" />
-  </picture>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare" height="50" alt="Git, GitHub, VS Code e Cloudflare"/>
 
-<hr />
+</div>
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle">
-<h2>Vamos construir algo juntos?</h2>
-<p>Aberto a colaborações, projetos ambiciosos e iniciativas open source que gerem valor.</p>
-</td>
-<td width="38%" valign="middle" align="right">
-<a href="https://yscode.pages.dev/">Portfólio</a>
-</td>
-</tr>
-</table>
+---
 
-<p align="center"><sub>Yuri Silva · Dados atualizados do perfil, desenvolvido com <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/Yuriiie/JurosCompostos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuriiie&repo=JurosCompostos&theme=tokyonight&hide_border=true&bg_color=020611&title_color=1684FF&icon_color=1684FF" />
+</a>
+
+<a href="https://github.com/Yuriiie/Login-Page">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuriiie&repo=Login-Page&theme=tokyonight&hide_border=true&bg_color=020611&title_color=1684FF&icon_color=1684FF" />
+</a>
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuriiie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020611&title_color=1684FF&icon_color=1684FF&text_color=C4D0E0&locale=pt-br" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriiie&layout=compact&theme=tokyonight&hide_border=true&bg_color=020611&title_color=1684FF&text_color=C4D0E0&locale=pt-br" />
+
+<br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=yuriiie&theme=tokyonight&hide_border=true&background=020611&ring=1684FF&fire=1684FF&currStreakLabel=1684FF&locale=pt_BR" />
+
+</div>
+
+---
+
+## 📫 Vamos conversar?
+
+<div align="center">
+
+<a href="https://www.instagram.com/yscode.dev">
+  <img src="https://img.shields.io/badge/Instagram-yscode.dev-020611?style=for-the-badge&logo=instagram&logoColor=1684FF"/>
+</a>
+
+<a href="https://yscode.pages.dev">
+  <img src="https://img.shields.io/badge/Portfólio-YS%20CODE-020611?style=for-the-badge&logo=googlechrome&logoColor=1684FF"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/yuriiie">
+  <img src="https://img.shields.io/badge/GitHub-yuriiie-020611?style=for-the-badge&logo=github&logoColor=1684FF"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1684FF,50:063B9C,100:020611&height=100&section=footer"/>
+
+</div>
