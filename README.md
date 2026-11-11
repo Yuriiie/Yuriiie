@@ -1,20 +1,108 @@
-## Olá, meu nome é Yuri Silva
+<div align="center">
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4&mode=dark" width="100%" alt="Yuri Silva — profile" />
+  </picture>
 
-☕ Sou desenvolvedor iniciante em Python, HTML, CSS e JavaScript
+<h1>Yuri Silva</h1>
+<p><strong>Backend or systems engineer</strong></p>
+<p>Olá! 👋 Sou desenvolvedor Full Stack Júnior e Web Designer, apaixonado por tecnologia, desenvolvimento web e criação de experiências digitais modernas e funcion</p>
 
-## 📲 Meu Instagram Pessoal e Profissional
 
-<a href="https://instagram.com/oyurim09_" target="_blank">
-  <img src="https://img.shields.io/badge/Pessoal-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>84</strong><br /><sub>Contributions</sub></td>
+</tr>
+</table>
 
-<a href="https://www.instagram.com/yscode.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Profissional-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
-
-## 🚀 Tecnologias que estou aprendendo
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="50" width="60"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<p><a href="https://github.com/yuriiie">GitHub</a></p>
 </div>
+
+<h2>Building in public</h2>
+
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
+<p>Olá! 👋 Sou desenvolvedor Full Stack Júnior e Web Designer, apaixonado por tecnologia, desenvolvimento web e criação de experiências digitais modernas e funcion</p>
+<p><strong>Focus:</strong> Python</p>
+<p><sub>Designed to make the work, momentum, and next conversation easy to find.</sub></p>
+</td>
+<td width="38%" valign="top">
+<img src="https://www.gitskins.com/api/section/portrait?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4&color=1&v=showcase-portrait-1" width="100%" alt="Yuri Silva animated colored ASCII portrait" />
+</td>
+</tr>
+</table>
+
+<h2>What I’m shipping</h2>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4&items=Python%3A%3A3%20public%20repositories%7CJurosCompostos%3A%3AA%20simple%20compound%20interest%20calculator%20made%20usi%7CImpact%3A%3A0%20stars%20%C2%B7%2011%20active%20days" width="100%" alt="Highlights" />
+</p>
+
+<h2>Featured work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<img src="https://www.gitskins.com/api/section/projects?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4" width="100%" alt="Featured projects" />
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Yuriiie/JurosCompostos"><strong>JurosCompostos</strong></a></h3>
+<p>A simple compound interest calculator made using the Tkinter library (Python) (Portuguese Version)</p>
+<p><sub>Python · ⭐ 0 stars · 0 forks</sub></p>
+<p><a href="https://github.com/Yuriiie/JurosCompostos">View project →</a></p>
+</td>
+</tr>
+</table>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/Yuriiie/JurosCompostos"><strong>JurosCompostos</strong></a></h3>
+<p>A simple compound interest calculator made using the Tkinter library (Python) (Portuguese Version)</p>
+<p><sub>Python · ⭐ 0</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/Yuriiie/Login-Page"><strong>Login-Page</strong></a></h3>
+<p>Modern dark-themed login page built with Streamlit featuring a clean and minimalist UI. Includes username and password authentication, responsive layo</p>
+<p><sub>Python · ⭐ 0</sub></p>
+</td>
+</tr>
+</table>
+
+<h2>Signal</h2>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4" width="100%" alt="0 stars across 3 repositories" />
+</p>
+
+<h2>Stack</h2>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4" width="100%" alt="Language stack" />
+</p>
+
+<h2>Activity</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=yuriiie&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268267039%3Fu%3Ded2c79496489c5016a2b96fe5f19349a5330211e%26v%3D4&mode=dark" width="100%" alt="84 contributions in the last year" />
+  </picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s build something</h2><p>Open to thoughtful collaboration, ambitious products, and useful open-source work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/yuriiie">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Yuri Silva · live profile data, designed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
